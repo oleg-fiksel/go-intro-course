@@ -13,6 +13,6 @@ func main() {
     for j := 1; j <= max; j++ {
       fmt.Printf("%d\t",i*j)
     }
-    fmt.Println("\n")
+    fmt.Println("")
   }
 }
